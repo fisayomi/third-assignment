@@ -1,7 +1,7 @@
 
 var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
 var request = new XMLHttpRequest();
-var api = "https://github.com/fisayomi/second-assignment/tree/andeLabs2/app";
+var api = "https://github.com/fisayomi/second-assignment/tree/andeLabs2/app"; // my public API
 request.open('GET', api, true);
 
 request.send();
