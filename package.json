@@ -1,0 +1,22 @@
+{
+  "name": "third-assignmet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "jasmine2chai": "^1.0.2"
+  },
+  "devDependencies": {
+    "jasmine": "^2.5.2",
+    "jasmine-expect": "^3.0.1",
+    "karma": "^1.3.0",
+    "karma-jasmine": "^1.0.2"
+  }
+}
